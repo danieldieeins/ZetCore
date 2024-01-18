@@ -1,0 +1,24 @@
+name: ZetCoreP
+description: Base for ProjectZ
+author: nerotvlive
+version: '${project.version}'
+main: com.zyneonstudios.zetcore.Main
+api-version: '1.16'
+
+commands:
+  zet:
+    aliases: [zetcore,core,pb,projectsbase]
+  chat:
+  advancement:
+  speed:
+  map:
+    aliases: [world]
+  test:
+  gamemode:
+    aliases: [gm,spielmodus,sm]
+  lock:
+  lockmode:
+  trust:
+  unlock:
+  money:
+    aliases: [geld,brieftasche]
